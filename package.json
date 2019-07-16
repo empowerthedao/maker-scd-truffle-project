@@ -1,0 +1,7 @@
+{
+  "name": "sai-proxy-truffle",
+  "version": "1.0.0",
+  "dependencies": {
+    "bn.js": "^4.11.8"
+  }
+}
